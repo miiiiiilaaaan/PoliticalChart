@@ -2,8 +2,5 @@ title: The Starscape Archives Political Chart
 name: PoliticalChart
 description: >- 
   The official TSA Political Chart. 
-remote_theme: jekyll/minima
-minima: dark
-plugins:
-  - jekyll-remote-theme
+theme: minima
 discord: https://discord.gg/GV85V9AFw8

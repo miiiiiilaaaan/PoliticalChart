@@ -1,8 +1,7 @@
 title: The Starscape Archives Political Chart
-
+description: by miiiiiilaaaan
 theme: minima
 minima:
-  skin: dark
   custom_css:
     - assets/css/dark-mode.css
   social_links:

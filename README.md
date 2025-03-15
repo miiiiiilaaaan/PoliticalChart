@@ -10,11 +10,12 @@ Files in the archive will be named with the date they are published on TSA follo
 
 Fullscreen version [here](https://miiiiiilaaaan.github.io/PoliticalChart/chart.png)
 
+<!-- STYLES - DO NOT REMOVE -->
 <style>
     :root {
-        --bg-color: #121212;
+        --bg-color: #1c2533;
         --text-color: #e0e0e0;
-        --link-color: #bb86fc;
+        --link-color: #4493f8;
     }
 
     body {

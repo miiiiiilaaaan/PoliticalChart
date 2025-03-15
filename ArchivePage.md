@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+title: "ArchivePage"
+permalink: (https://miiiiiilaaaan.github.io/PoliticalChart/ArchivePage.md)
 
 ## Archive
 A scroll down archive of all my charts.

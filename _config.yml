@@ -4,7 +4,7 @@ theme: minima
 minima:
   social_links:
     - title: TSA Discord server
-      icon: fa-github
+      icon: discord
       url: "https://discord.gg/GV85V9AFw8"
   custom_css:
     - assets/css/dark-mode.css

@@ -1,1 +1,7 @@
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+/* Center the Discord icon with the text */
+.social-media-list .icon {
+  display: inline-flex;
+  align-items: center; /* Vertically center the icon with the text */
+  justify-content: center; /* Horizontally center the icon */
+  margin-right: 8px; /* Add some spacing between the icon and text */
+}

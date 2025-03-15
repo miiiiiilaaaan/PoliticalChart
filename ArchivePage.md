@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 ## Archive
 A scroll down archive of all my charts.
 

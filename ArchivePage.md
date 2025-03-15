@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
+> This is a work in progress, more charts will be added soon.
+
 A scroll down archive of all my charts.\
 *All dates are in the DDMMYYY format.*
 

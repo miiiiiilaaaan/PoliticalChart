@@ -2,7 +2,7 @@ name: PoliticalChart
 description: >- 
   The official TSA Political Chart. 
 remote_theme: jekyll/minima
+minima: dark
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 github_username: miiiiiilaaaan

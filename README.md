@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="assets/css/style.css">
+<!-- STYLES ABOVE - DO NOT REMOVE -->
+
 ## Main page
 Here i'll upload the latest Political Charts for Starscape use.
 
@@ -14,3 +17,4 @@ Fullscreen version [here](https://miiiiiilaaaan.github.io/PoliticalChart/chart.p
 
 <!-- STYLES - DO NOT REMOVE -->
 <link rel="stylesheet" href="assets/css/style.css">
+

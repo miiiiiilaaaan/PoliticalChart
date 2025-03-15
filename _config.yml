@@ -7,3 +7,8 @@ minima:
   skin: dark
   custom_css:
     - assets/css/dark-mode.css
+
+social_links:
+ - title: TSA Discord server
+     icon: discord
+     url: "https://discord.gg/GV85V9AFw8"

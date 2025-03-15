@@ -13,7 +13,7 @@ Fullscreen version [here](https://miiiiiilaaaan.github.io/PoliticalChart/chart.p
 <!-- STYLES - DO NOT REMOVE -->
 <style>
     :root {
-        --bg-color: #184a99;
+        --bg-color: #202c40;
         --text-color: #e0e0e0;
         --link-color: #4493f8;
     }
@@ -29,7 +29,7 @@ Fullscreen version [here](https://miiiiiilaaaan.github.io/PoliticalChart/chart.p
 
     @media (prefers-color-scheme: dark) {
         :root {
-            --bg-color: #184a99;
+            --bg-color: #202c40;
             --text-color: #e0e0e0;
             --link-color: #4493f8;
         }

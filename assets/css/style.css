@@ -19,12 +19,12 @@ a {
 }
 
 a:visited {
-    color: var(--text-color);
+    color: var(--link-color);
     
 }
 
 a:hover {
-    color: var(--text-color);
+    color: var(--link-color);
     
 }
 

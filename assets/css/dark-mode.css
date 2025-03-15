@@ -1,8 +1,7 @@
-/* Dark Mode Colors */
 :root {
-    --bg-color: #121212;
-    --text-color: #e0e0e0;
-    --link-color: #bb86fc;
+     --bg-color: #202c40;
+     --text-color: #e0e0e0;
+     --link-color: #4493f8;
 }
 
 body {
@@ -14,11 +13,10 @@ a {
     color: var(--link-color);
 }
 
-/* Ensure dark mode follows user preference */
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg-color: #121212;
+        --bg-color: #202c40;
         --text-color: #e0e0e0;
-        --link-color: #bb86fc;
+        --link-color: #4493f8;
     }
 }

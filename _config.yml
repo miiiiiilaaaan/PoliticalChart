@@ -3,5 +3,8 @@ name: PoliticalChart
 description: >- 
   The official TSA Political Chart. 
 theme: minima
-
+minima:
+  skin: dark
+  custom_css:
+    - assets/css/dark-mode.css
 discord: https://discord.gg/GV85V9AFw8

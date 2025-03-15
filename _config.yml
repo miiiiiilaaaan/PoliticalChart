@@ -5,15 +5,15 @@ description: >-
 theme: minima
 discord: https://discord.gg/GV85V9AFw8
 
-page-col: "#a7c9c9"
-text-col: "#404040"
+page-col: "#19263b"
+text-col: "#ededed"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#1e3863"
+footer-text-col: "#ededed"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 

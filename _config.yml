@@ -8,4 +8,6 @@ minima:
       url: "https://discord.gg/GV85V9AFw8"
   custom_css:
     - assets/css/dark-mode.css
+    - assets/css/custom.css
+
 

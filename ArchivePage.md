@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-Back to the [main page](https://miiiiiilaaaan.github.io/PoliticalChart/)\
+Back to the [main page](https://miiiiiilaaaan.github.io/PoliticalChart/)
 
 A scroll down archive of all my charts.\
-*All dates are in the DDMMYYY format.*\
+*All dates are in the DDMMYYY format.*
 
 ## Current chart:
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/chart.png" alt="chart">

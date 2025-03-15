@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+<!-- STYLES ABOVE - DO NOT REMOVE -->
 
 A scroll down archive of all my charts.
 *All dates are in the DDMMYYY format.*
@@ -9,6 +11,3 @@ A scroll down archive of all my charts.
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/02022025.png" alt="02022025">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/22012025.png" alt="22012025">
-
-<!-- STYLES - DO NOT REMOVE -->
-<link rel="stylesheet" href="assets/css/style.css">

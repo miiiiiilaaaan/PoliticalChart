@@ -5,3 +5,4 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+github_username: miiiiiilaaaan

@@ -9,5 +9,5 @@ minima:
     - assets/css/dark-mode.css
   social_links:
    - title: TSA Discord server
-       icon: github
-       url: "https://discord.gg/GV85V9AFw8"
+   icon: github
+   url: "https://discord.gg/GV85V9AFw8"

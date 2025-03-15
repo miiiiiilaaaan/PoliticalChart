@@ -1,3 +1,4 @@
 name: PoliticalChart
 description: The official TSA Political Chart
+  text-align: right;
 theme: minima

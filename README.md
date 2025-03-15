@@ -2,9 +2,10 @@
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
 ## Main page
-Here i'll upload the latest Political Charts for Starscape use.
+Here i'll upload the latest Political Charts made for TSA.\
+Feel free to ask me any questions relating the charts or this site.
 
-Files in the archive will be named with the date they are published on TSA following the DDMMYYY format.\
+Files in the archive will be named by release date following a DDMMYYY format.\
 [Open archive →](ArchivePage.md)
 
 ## Current chart:

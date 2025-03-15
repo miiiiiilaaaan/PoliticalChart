@@ -1,12 +1,14 @@
 title: The Starscape Archives Political Chart
-description: by miiiiiilaaaan
 author:
   name: by miiiiiilaaaan
   email: [TSA Discord](https://discord.gg/GV85V9AFw8)
+description: by miiiiiilaaaan
 theme: minima
 minima:
   custom_css:
     - assets/css/dark-mode.css
+  nav_pages:
+    - ArchivePage.md
   social_links:
     - title: TSA Discord server
       icon: github

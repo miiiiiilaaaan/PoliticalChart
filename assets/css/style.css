@@ -1,7 +1,7 @@
 :root {
-     --bg-color: #202c40;
-     --text-color: #e0e0e0;
-     --link-color: #4493f8;
+     --bg-color: #111a23;
+     --text-color: #e0e1e3;
+     --link-color: #d97706;
 }
 
 body {
@@ -15,8 +15,8 @@ a {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg-color: #202c40;
-        --text-color: #e0e0e0;
-        --link-color: #4493f8;
+        --bg-color: #111a23;
+        --text-color: #e0e1e3;
+        --link-color: #d97706;
     }
 }

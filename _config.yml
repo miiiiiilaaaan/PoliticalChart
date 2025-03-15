@@ -1,5 +1,3 @@
-head:
-  - <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 title: The Starscape Archives Political Chart
 author: 
   name: By miiiiiilaaaan
@@ -12,3 +10,5 @@ minima:
   custom_css:
     - assets/css/dark-mode.css
     - assets/css/custom.css
+  head:
+    - <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">

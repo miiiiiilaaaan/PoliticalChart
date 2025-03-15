@@ -18,6 +18,16 @@ a {
     color: var(--link-color);
 }
 
+a:visited {
+    color: var(--text-color);
+    
+}
+
+a:hover {
+    color: var(--text-color);
+    
+}
+
 /* Target the title */
 .site-title {
     color: var(--nav-text-color) !important;

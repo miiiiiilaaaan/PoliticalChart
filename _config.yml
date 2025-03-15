@@ -3,23 +3,5 @@ name: PoliticalChart
 description: >- 
   The official TSA Political Chart. 
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-minima:
-  skin: dark
-  
+
 discord: https://discord.gg/GV85V9AFw8
-
-page-col: "#19263b"
-text-col: "#ededed"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#1e3863"
-footer-text-col: "#ededed"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-

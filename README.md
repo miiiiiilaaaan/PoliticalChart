@@ -5,7 +5,6 @@
 Here i'll upload the latest Political Charts made for TSA.\
 Feel free to ask me any questions relating the charts or this site.
 
-Files in the archive will be named by release date following a DDMMYYY format.\
 [Open archive →](ArchivePage.md)
 
 ## Current chart:

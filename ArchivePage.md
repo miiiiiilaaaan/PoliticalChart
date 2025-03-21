@@ -10,6 +10,8 @@ A scroll down archive of all my charts.\
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/chart.png" alt="chart">
 
 ## Older charts
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/19032025.png" alt="19032025">
+
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/15032025.png" alt="15032025">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/13032025.png" alt="13032025">

@@ -22,13 +22,11 @@
         </div>
       </div>
 
-      <!-- Social links now placed right after the text content -->
       <div class="social-links">
         {%- include social.html -%}
       </div>
     </div>
 
-    <!-- Logo positioned absolutely -->
     <div class="footer-image-container">
       <img src="{{ site.favicon | relative_url }}" alt="footer icon" class="footer-icon"/>
     </div>
@@ -41,16 +39,12 @@
     max-width: 800px;
     margin: 0 auto;
     position: relative;
-    padding-right: 140px; /* Make space for the large icon */
-  }
-  
-  .footer-main-content {
-    /* This contains all content except the logo */
+    padding-right: 120px; /* Adjusted to match content alignment */
   }
   
   .footer-image-container {
     position: absolute;
-    right: 0;
+    right: 20px; /* Bring it left a bit from the edge */
     top: 50%;
     transform: translateY(-50%);
     height: 120px;
@@ -59,9 +53,10 @@
   .footer-icon {
     height: 100%;
     width: auto;
+    max-width: 100%;
   }
   
-  /* Remove all unwanted spacing */
+  /* Spacing fixes */
   .contact-list,
   .footer-col p,
   .social-links {
@@ -69,9 +64,8 @@
     padding: 0;
   }
   
-  /* Ensure social links appear right after text */
   .social-links {
-    margin-top: 0.5em; /* Minimal space if needed */
+    margin-top: 0.2em; /* Minimal space */
   }
 
   @media (max-width: 768px) {
@@ -81,20 +75,12 @@
     
     .footer-image-container {
       position: relative;
+      right: auto;
       top: auto;
       transform: none;
       height: 80px;
-      margin-top: 10px;
-      text-align: right;
-    }
-    
-    .footer-main-content {
-      display: flex;
-      flex-direction: column;
-    }
-    
-    .social-links {
-      order: 1; /* Ensure social links stay below */
+      margin: 10px 0 0 auto; /* Right-aligned below content */
+      width: fit-content;
     }
   }
 </style>

@@ -5,7 +5,7 @@
 Here i'll upload the latest Political Charts made for TSA.\
 Feel free to ask me any questions relating the charts or this site.
 
-[Open archive →](ArchivePage.md)
+[Open archive →](ArchivePage.md)\
 [Open older archive →](OlderArchive.md)
 
 

@@ -1,0 +1,23 @@
+{%- comment -%}
+This file overrides the default Minima head.
+It keeps all the original theme functionality and adds custom favicon support.
+{%- endcomment -%}
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{%- seo -%}
+
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+{%- if site.google_fonts -%}
+  <link href="https://fonts.googleapis.com/css?family={{ site.google_fonts | join:"|" | replace: " ", "+" }}" rel="stylesheet">
+{%- endif -%}
+
+{%- if site.favicon -%}
+  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
+{%- endif -%}
+
+<!-- Favicon likns -->
+<link rel="x-icon" href="images/favicon.png">

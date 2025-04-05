@@ -9,3 +9,4 @@ minima:
       url: "https://discord.gg/GV85V9AFw8"
   custom_css:
     - assets/css/custom.css
+favicon: /assets/icons/favicon.ico

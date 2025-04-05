@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-## Main page
+
 Here i'll upload the latest Political Charts made for TSA.\
 Feel free to ask me any questions relating the charts or this site.
 

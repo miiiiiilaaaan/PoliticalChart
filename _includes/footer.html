@@ -3,9 +3,9 @@
 
   <div class="wrapper">
 
-    <div class="footer-main-content">
-      <div class="footer-col-wrapper">
-        <div class="footer-col">
+    <div class="footer-content-grid">
+      <!-- Column 1: Text content -->
+      <div class="footer-text">
         {%- if site.author %}
           <ul class="contact-list">
             {% if site.author.name -%}
@@ -16,19 +16,16 @@
             {%- endif %}
           </ul>
         {%- endif %}
-        </div>
-        <div class="footer-col">
-          <p>{{ site.description | escape }}</p>
+        <p>{{ site.description | escape }}</p>
+        <div class="social-links">
+          {%- include social.html -%}
         </div>
       </div>
 
-      <div class="social-links">
-        {%- include social.html -%}
+      <!-- Column 2: Logo -->
+      <div class="footer-logo">
+        <img src="{{ site.favicon | relative_url }}" alt="footer icon"/>
       </div>
-    </div>
-
-    <div class="footer-image-container">
-      <img src="{{ site.favicon | relative_url }}" alt="footer icon" class="footer-icon"/>
     </div>
 
   </div>
@@ -38,49 +35,51 @@
   .wrapper {
     max-width: 800px;
     margin: 0 auto;
-    position: relative;
-    padding-right: 120px; /* Adjusted to match content alignment */
   }
   
-  .footer-image-container {
-    position: absolute;
-    right: 20px; /* Bring it left a bit from the edge */
-    top: 50%;
-    transform: translateY(-50%);
+  .footer-content-grid {
+    display: grid;
+    grid-template-columns: 1fr auto; /* Text takes space, logo takes what it needs */
+    align-items: start; /* Align items at the top */
+    gap: 20px; /* Space between text and logo */
+  }
+  
+  .footer-text {
+    /* Contains all text elements */
+  }
+  
+  .footer-logo img {
     height: 120px;
-  }
-  
-  .footer-icon {
-    height: 100%;
     width: auto;
-    max-width: 100%;
+    margin-top: -10px; /* Fine-tune vertical alignment */
   }
   
-  /* Spacing fixes */
+  /* Remove all spacing */
   .contact-list,
-  .footer-col p,
+  .footer-text p,
   .social-links {
     margin: 0;
     padding: 0;
   }
   
   .social-links {
-    margin-top: 0.2em; /* Minimal space */
+    margin-top: 0.2em;
   }
 
   @media (max-width: 768px) {
-    .wrapper {
-      padding-right: 0;
+    .footer-content-grid {
+      grid-template-columns: 1fr; /* Stack on mobile */
+      gap: 10px;
     }
     
-    .footer-image-container {
-      position: relative;
-      right: auto;
-      top: auto;
-      transform: none;
+    .footer-logo {
+      text-align: right; /* Keep logo right-aligned */
+      margin-top: 5px; /* Reduced space above logo */
+    }
+    
+    .footer-logo img {
       height: 80px;
-      margin: 10px 0 0 auto; /* Right-aligned below content */
-      width: fit-content;
+      margin-top: 0;
     }
   }
 </style>

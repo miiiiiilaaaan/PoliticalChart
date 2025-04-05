@@ -1,17 +1,14 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
-  <div class="wrapper">
+  <div class="wrapper" style="position: relative;">
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">
-              {{ site.author.name | escape }}
-              <img src="{{ site.favicon | relative_url }}" alt="favicon" style="height: 1em; width: auto; vertical-align: middle; margin-left: 5px;" />
-            </li>
+            <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
@@ -28,6 +25,26 @@
       {%- include social.html -%}
     </div>
 
+    <!-- Full-height right-aligned image -->
+    <img src="{{ site.favicon | relative_url }}" alt="footer image" 
+         style="position: absolute; 
+                right: 0; 
+                top: 0; 
+                height: 100%; 
+                width: auto; 
+                max-width: 200px; /* Adjust as needed */
+                object-fit: contain;" />
+
   </div>
 
 </footer>
+
+<style>
+  .site-footer {
+    position: relative;
+    overflow: hidden; /* Ensures the image doesn't overflow the footer */
+  }
+  .wrapper {
+    padding-right: 220px; /* Make space for the image (200px + 20px margin) */
+  }
+</style>

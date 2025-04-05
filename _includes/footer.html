@@ -7,7 +7,7 @@
       <div class="footer-col-wrapper">
         <div class="footer-col">
         {%- if site.author %}
-          <ul class="contact-list">
+          <ul class="contact-list" style="margin-bottom: 0;"> <!-- Remove bottom margin -->
             {% if site.author.name -%}
               <li class="p-name">{{ site.author.name | escape }}</li>
             {% endif -%}
@@ -18,7 +18,7 @@
         {%- endif %}
         </div>
         <div class="footer-col">
-          <p>{{ site.description | escape }}</p>
+          <p style="margin-bottom: 0;">{{ site.description | escape }}</p> <!-- Remove bottom margin -->
         </div>
       </div>
 
@@ -27,7 +27,7 @@
       </div>
     </div>
 
-    <div class="social-links">
+    <div class="social-links" style="margin-top: 0;"> <!-- Remove top margin -->
       {%- include social.html -%}
     </div>
 
@@ -54,8 +54,15 @@
   }
   
   .footer-icon {
-    height: 100px; /* Larger size as before */
+    height: 100px; /* Large size as requested */
     width: auto;
+  }
+
+  /* Remove default margins from lists and paragraphs */
+  .contact-list,
+  .footer-col p {
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   @media (max-width: 768px) {

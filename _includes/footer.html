@@ -3,11 +3,11 @@
 
   <div class="wrapper">
 
-    <div class="footer-content">
+    <div class="footer-main-content">
       <div class="footer-col-wrapper">
         <div class="footer-col">
         {%- if site.author %}
-          <ul class="contact-list" style="margin-bottom: 0;"> <!-- Remove bottom margin -->
+          <ul class="contact-list">
             {% if site.author.name -%}
               <li class="p-name">{{ site.author.name | escape }}</li>
             {% endif -%}
@@ -18,71 +18,83 @@
         {%- endif %}
         </div>
         <div class="footer-col">
-          <p style="margin-bottom: 0;">{{ site.description | escape }}</p> <!-- Remove bottom margin -->
+          <p>{{ site.description | escape }}</p>
         </div>
       </div>
 
-      <div class="footer-image-container">
-        <img src="{{ site.favicon | relative_url }}" alt="footer icon" class="footer-icon"/>
+      <!-- Social links now placed right after the text content -->
+      <div class="social-links">
+        {%- include social.html -%}
       </div>
     </div>
 
-    <div class="social-links" style="margin-top: 0;"> <!-- Remove top margin -->
-      {%- include social.html -%}
+    <!-- Logo positioned absolutely -->
+    <div class="footer-image-container">
+      <img src="{{ site.favicon | relative_url }}" alt="footer icon" class="footer-icon"/>
     </div>
 
   </div>
 </footer>
 
 <style>
-  /* Match your site's layout */
   .wrapper {
     max-width: 800px;
     margin: 0 auto;
     position: relative;
+    padding-right: 140px; /* Make space for the large icon */
   }
   
-  .footer-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    position: relative;
+  .footer-main-content {
+    /* This contains all content except the logo */
   }
   
   .footer-image-container {
-    margin-left: 20px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 120px;
   }
   
   .footer-icon {
-    height: 100px; /* Large size as requested */
+    height: 100%;
     width: auto;
   }
-
-  /* Remove default margins from lists and paragraphs */
+  
+  /* Remove all unwanted spacing */
   .contact-list,
-  .footer-col p {
-    margin-top: 0;
-    margin-bottom: 0;
+  .footer-col p,
+  .social-links {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Ensure social links appear right after text */
+  .social-links {
+    margin-top: 0.5em; /* Minimal space if needed */
   }
 
   @media (max-width: 768px) {
-    .footer-content {
-      flex-direction: row; /* Keep in same row on mobile */
-      align-items: center; /* Align with author name */
-    }
-    
-    .footer-icon {
-      height: 80px; /* Slightly smaller on mobile */
+    .wrapper {
+      padding-right: 0;
     }
     
     .footer-image-container {
-      margin-left: 15px;
+      position: relative;
+      top: auto;
+      transform: none;
+      height: 80px;
+      margin-top: 10px;
+      text-align: right;
     }
-  }
-
-  @media (max-width: 480px) {
-    .footer-icon {
-      height: 60px; /* Even smaller for very small screens */
+    
+    .footer-main-content {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .social-links {
+      order: 1; /* Ensure social links stay below */
     }
   }
 </style>

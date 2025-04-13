@@ -7,12 +7,12 @@ Feel free to ask me any questions relating the charts or this site.
 
 [Open TSA archive →](ArchivePage.md)
 
-### Pre-TSA charts:
+## Pre-TSA charts:
 [TDC charts →](TDCCharts.md)\
     *22/02/2024 - 24/06/2024*\
 \
 [Interstellar Politics Chart →](InterstellarCharts.md)\
-    *08/02/2021 - 08/03/2024*
+    *08/02/2024 - 08/03/2024*
 
 
 

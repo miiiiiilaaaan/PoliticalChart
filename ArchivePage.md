@@ -8,7 +8,7 @@ A scroll down archive of all my charts.\
 ## Current chart:
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/chart.png" alt="chart">
 
-## Older charts
+## Older TSA charts
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/26032025.png" alt="26032025">
 

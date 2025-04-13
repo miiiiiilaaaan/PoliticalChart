@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-> Work in progress, more charts will get added.
-
 A selection of older charts. This also includes the ones I made before working for TSA.\
 *All dates are in the DDMMYYY format.*
 
@@ -44,7 +42,3 @@ A selection of older charts. This also includes the ones I made before working f
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/01032024.png" alt="01032024">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/22022023.png" alt="22022023">
-
-## Pre-TSA archive:
-
-> WIP

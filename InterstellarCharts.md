@@ -9,7 +9,7 @@ A selection of older charts made by *@dariovelzleon*.\
 
 ## Archive:
 
-<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/INTERSTELLAR POLITICS CHART(44).png" alt="INTERSTELLAR_POLITICS_CHART44">
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/INTERSTELLAR_POLITICS_CHART(44).png" alt="INTERSTELLAR_POLITICS_CHART44">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/INTERSTELLAR POLITICS CHART(43).png" alt="INTERSTELLAR_POLITICS_CHART43">
 

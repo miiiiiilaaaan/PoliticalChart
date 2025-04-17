@@ -21,7 +21,7 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
     *22/02/2024 - 24/06/2024*\
 \
 [Interstellar Politics Chart →](InterstellarCharts.md)\
-    *18/07/2021 - 08/01/2022*
+    *18/07/2021 - 08/01/2022*\
 \
 CITLINK →\
 *Coming soon*\

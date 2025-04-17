@@ -10,6 +10,8 @@ Feel free to ask me any questions relating the charts or this site.
 
 Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/chart.png)
 
+---
+
 # Archive 
 
 [TSA archive →](ArchivePage.md)\

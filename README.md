@@ -13,7 +13,7 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
 # Archive 
 
 [TSA archive →](ArchivePage.md)\
-    *27/06/2024 - present*\
+    *27/06/2024 - present*
 
 
 ### Pre-TSA charts:

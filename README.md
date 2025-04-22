@@ -29,7 +29,7 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
     *28/05/2021 - 20/06/2021*\
 \
 CITLINK →\
-*Coming soon*\
+*Coming soon*
 
 
 

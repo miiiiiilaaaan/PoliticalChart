@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-A selection of older charts. This also includes the ones I made before working for TSA.\
+A selection of older charts I made before working for TSA.\
 *All dates are in the DDMMYYY format.*
 
 

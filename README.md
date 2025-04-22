@@ -25,11 +25,12 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
 [Interstellar Politics Chart →](InterstellarCharts.md)\
     *18/07/2021 - 08/01/2022*\
 \
+[TCA Politics Chart →](TCACharts.md)\
+    *28/05/2021 - 20/06/2021*\
+\
 CITLINK →\
 *Coming soon*\
-\
-TCA →\
-*Coming soon*
+
 
 
 

@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-A selection of older charts made by *@systemicwhale*.\
+A selection of older charts made by *@systemicwhale*.
+
+## Archive:
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/TCAWhale/20022024.png" alt="20022024">
 

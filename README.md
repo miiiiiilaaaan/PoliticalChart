@@ -22,7 +22,7 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
 [TDC charts →](TDCCharts.md)\
     *22/02/2024 - 24/06/2024*\
 \
-[2025 TCA Politics Chart →](TCAWhaleCharts.md)\
+[2024 TCA Politics Chart →](TCAWhaleCharts.md)\
     *20/02/2024 - 06/04/2024*\
 \
 [Interstellar Politics Chart →](InterstellarCharts.md)\

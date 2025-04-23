@@ -85,5 +85,3 @@ A scroll down archive of all my charts.\
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/28062024.png" alt="28062024">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/27062024.png" alt="27062024">
-
-[Open older archive →](OlderArchive.md)

@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-A selection of older charts made by *@dariovelzleon*.\
+A selection of older charts made by *@dariovelzleon* and *@aindex*.\
 *All dates are in the DDMMYYY format.*
 
 >If you have more TCA charts, please send them to @miiiiiiilaaaan to help build the archive.

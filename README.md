@@ -26,7 +26,7 @@ Fullscreen version [here →](https://miiiiiilaaaan.github.io/PoliticalChart/cha
     *18/07/2021 - 08/01/2022*\
 \
 [TCA Politics Chart →](TCACharts.md)\
-    *28/05/2021 - 20/06/2021*\
+    *25/01/2021 - 20/06/2021*\
 \
 CITLINK →\
 *Coming soon*

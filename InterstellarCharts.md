@@ -5,7 +5,7 @@ A selection of older charts made by *@dariovelzleon*.\
 *All dates are in the DDMMYYY format.*
 
 
-## Archive:
+## Interstellar Archive:
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/ISA/INTERSTELLAR_POLITICS_CHART(44).png" alt="INTERSTELLAR_POLITICS_CHART44">
 

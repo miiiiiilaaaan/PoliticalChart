@@ -45,20 +45,25 @@
   }
   
   .footer-content-grid {
-    display: grid;
-    grid-template-columns: 1fr auto; /* Text takes space, logo takes what it needs */
-    align-items: start; /* Align items at the top */
-    gap: 20px; /* Space between text and logo */
+    display: flex; /* Use flexbox instead of grid for more control */
+    justify-content: space-between;
+    align-items: flex-start; /* Top align both columns */
+    gap: 20px;
   }
-  
-  .footer-text {
-    /* Contains all text elements */
-  }
-  
+
   .footer-logo img {
     height: 100px;
     width: auto;
-    margin-top: -10px; /* Fine-tune vertical alignment */
+    margin-top: 0; /* Remove offset */
+    display: block;
+  }
+
+  .footer-text {
+  background: rgba(255, 0, 0, 0.1); /* light red background for testing */
+  }
+
+  .footer-logo {
+  background: rgba(0, 255, 0, 0.1); /* light green background */
   }
   
   /* Remove all spacing */

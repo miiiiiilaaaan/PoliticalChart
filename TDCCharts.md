@@ -5,7 +5,7 @@ A selection of older charts I made before working for TSA.\
 *All dates are in the DDMMYYY format.*
 
 
-## Archive:
+## TDC Chart Archive:
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/24062024.png" alt="24062024">
 

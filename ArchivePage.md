@@ -10,6 +10,8 @@ A scroll down archive of all my charts.\
 
 ## Older TSA charts
 
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/16082025.png" alt="16082025">
+
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/10082025.png" alt="10082025">
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/06082025.png" alt="06082025">

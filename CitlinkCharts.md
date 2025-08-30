@@ -15,10 +15,18 @@ Some Citadel link charts. I don't know who made them or when they were made, if 
 
 <img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_chart_CITLINK_4.png" alt="Macro_chart_CITLINK_4">
 
-<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_chart_CITLINK_5.png" alt="Macro_chart_CITLINK_5">
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_1.png" alt="Macro_Political_Chart_1">
 
-<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_chart_CITLINK_6.png" alt="Macro_chart_CITLINK_6">
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_2.png" alt="Macro_Political_Chart_2">
 
-<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_chart_CITLINK_7.png" alt="Macro_chart_CITLINK_7">
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_3.png" alt="Macro_Political_Chart_3">
 
-<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_chart_CITLINK_8.png" alt="Macro_chart_CITLINK_8">
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_4.png" alt="Macro_Political_Chart_4">
+
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_5.png" alt="Macro_Political_Chart_5">
+
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_6.png" alt="Macro_Political_Chart_6">
+
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_7.png" alt="Macro_Political_Chart_7">
+
+<img src="https://miiiiiilaaaan.github.io/PoliticalChart/Archive/Citlink/Macro_Political_Chart_8.png" alt="Macro_Political_Chart_8">

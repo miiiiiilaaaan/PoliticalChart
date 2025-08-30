@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- STYLES ABOVE - DO NOT REMOVE -->
 
-Some Citadel link charts. I don't know who made them or when they were made, if you have any info dm @miiiiiilaaaan.\
+Some unsorted Citadel link charts. I don't know who made them or when they were made, if you have any info dm @miiiiiilaaaan.\
 *All dates are in the DDMMYYYY format.*
 
 
